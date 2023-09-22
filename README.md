@@ -17,7 +17,7 @@ For this dataset, there were 607 rows and 12 columns.
 
 ## Description
 
-
+Use Insurance Data to check if the customer took the lolan.
 
 ### Exploratory Data Analysis
 <p align = "center"> 
@@ -43,7 +43,7 @@ This graph shows the drivers who 65+ and who have 30y+ driving experience have m
     - Tuned Logistic Regression
     - Decision Tree Classifier
     - Random Forest
-    - Tuned Random Forest
+
     
     
 ## Models Evaluated & Results
@@ -181,17 +181,11 @@ Test Report
     accuracy                           0.82      2500
    macro avg       0.79      0.78      0.78      2500
 weighted avg       0.81      0.82      0.82      2500
+ 
 
 
-    - Tuned Random Forest
-    
+- The Final Model Chosen was a `Logistic Regression Model` with the accuracy of 88.
 
-
-- The Final Model Chosen was a `Random Forest Regressor Model` with the n_estimators tuned to 60.
-- For the testing set on the model, `60.02%` of the variance in y was explained by x. 
-- The Mean Absolute Error was off by about `$728.683`.
-- The Mean Squared Error was `$1,097,379.432`.
-- The Root Mean Squared Error had a calculation of `$1,074.559`.
 
 Using this model to help the stakeholders understand the real customer behaviors play crucial roles in predicting outcome of the insurance. .
 
@@ -209,7 +203,7 @@ Car Insurance Outcome
   
 
 Model Performance
-- Overall, the best model is definitely the tuned Random Forest Regressor Model. 
+- Overall, the best model is definitely the Logistic Regression. 
 
 
 ## Limitations & Next Steps
