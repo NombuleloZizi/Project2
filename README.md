@@ -37,11 +37,11 @@ This graph shows the drivers who 65+ and who have 30y+ driving experience have m
 
 
  ### Maching Learning Using the Following Models:
-    - Linear Regression Model
-    - Decision Tree Regressor Model
-    - Tuned Decision Tree Regressor Model
-    - Random Forest Regressor Model
-    - Tuned Random Forest Regressor Model
+    - K-Nearest Neighbors
+    - Tuned K-Nearest Neighbors
+    - Logistic Regression
+    - Tuned Logistic Regression
+    - Decision Tree Classifier
     
     
 ## Models Evaluated & Results
