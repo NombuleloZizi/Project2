@@ -3,29 +3,21 @@
 </p>
 
 
-# Sales Prediction
+# Car Insurance Data
 
 **Author**: Nombulelo Zizi
 
 ### Business problem:
-Analyzing properties of products and outlets that play crucial roles in predicting sales
+The company has shared its annual car insurance data. Now, you have to find out the real customer behaviors over the data
 ## Data Source: 
-Sales Prediction
-[https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
+Car Insurance Data
+[https://www.kaggle.com/datasets/sagnik1511/car-insurance-data)
 
 For this dataset, there were 607 rows and 12 columns.
 
-## Data Dictionary
-
-<p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/DS%20Salaries%20Data%20Dictionary.png">
-</p>
+## Description
 
 
-## To prepare this data, the data was cleaned, and the following processes were performed:
-  - Dropped unwated columns
-  - Most frequest value was used to populate missing values on categorical columns
-  - Mean value was used to populate missing values on numeric columns
 
 ### Exploratory Data Analysis
     - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column.. 
