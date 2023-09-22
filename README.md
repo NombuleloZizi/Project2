@@ -28,7 +28,7 @@ For this dataset, there were 607 rows and 12 columns.
   <img src = "https://github.com/NombuleloZizi/Project2/blob/main/age_vs_speed.png">
 </p>
 
-This graph shows the median is around 1800 for this particular column.
+This graph shows the drivers who 65+ and who have 30y+ driving experience have more speeding violations
 
 
  ### Expanatory Data Analysis
@@ -37,10 +37,10 @@ This graph shows the median is around 1800 for this particular column.
     - Finally, a l.inegraph was chosen to show the trend of salaries over the past three years. 
 
 <p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/EDA%20item%20weight.png">
+  <img src = "https://github.com/NombuleloZizi/Project2/blob/main/age_vs_accidents.png">
 </p>
 
-This graph shows the median is around 12.5 for this particular column.
+This graph shows the drivers who 65+ and who have 30y+ driving experience have more past accidents.
 
 ## Explanatory Visuals
 
