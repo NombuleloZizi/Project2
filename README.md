@@ -20,10 +20,6 @@ For this dataset, there were 607 rows and 12 columns.
 
 
 ### Exploratory Data Analysis
-    - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column.. 
-    - Also, a countplot, barplot and heatmap was visualized for each categorical column. 
-    - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
-
 <p align = "center"> 
   <img src = "https://github.com/NombuleloZizi/Project2/blob/main/age_vs_speed.png">
 </p>
@@ -32,50 +28,12 @@ This graph shows the drivers who 65+ and who have 30y+ driving experience have m
 
 
  ### Expanatory Data Analysis
-    - To visualize the data for explantory purposes, three bargraphs were chosen and one linegraph was chosen.
-    - The bargraphs were chosen to show how the categories compare to each other. 
-    - Finally, a l.inegraph was chosen to show the trend of salaries over the past three years. 
 
 <p align = "center"> 
   <img src = "https://github.com/NombuleloZizi/Project2/blob/main/age_vs_accidents.png">
 </p>
 
 This graph shows the drivers who 65+ and who have 30y+ driving experience have more past accidents.
-
-## Explanatory Visuals
-
-<p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20type.png">
-</p>
-
- Here we can see that the top five Type that have the most items are as follows:
-  - Fruits and Vegetables
-  - Snack Foods
-  - Household
-  - Frozen Foods
-  - Dairy
-
-We can also see that the bottom five type that have the least of the items are as follows:
-  - Seafood
-  - Breakfast
-  - Starchy Foods
-  - Others  
-  - Hard Drinks
-
-
-<p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/location%20type.png">
-</p>
-
-- This graph shows that most outlet location type is Tier 3 and the least outlet location type is Tier 1.
-
-<p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/outlet%20type.png">
-</p>
-
-This graph shows that most outlet type is Suppermarket Type1 and the least outlet type is Supermarket Type2.
-
-
 
 
  ### Maching Learning Using the Following Models:
