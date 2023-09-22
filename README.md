@@ -1,5 +1,5 @@
 <p align = "center"> 
-  <img src = "https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/bignart1-thumbnail-1200x1200.png">
+  <img src = "https://www.legalexaminer.com/wp-content/claris-images-uploads/car-insurance@large.jpg">
 </p>
 
 
