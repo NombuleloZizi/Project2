@@ -25,7 +25,7 @@ For this dataset, there were 607 rows and 12 columns.
     - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
 
 <p align = "center"> 
-  <img src = "https://github.com/NombuleloZizi/Product-Sales-Predictions-Final/blob/main/item%20outlet%20sales.png">
+  <img src = "https://github.com/NombuleloZizi/Project2/blob/main/age_vs_speed.png">
 </p>
 
 This graph shows the median is around 1800 for this particular column.
