@@ -199,14 +199,13 @@ Using this model to help the stakeholders understand the real customer behaviors
 
 Car Insurance Outcome
 
-- Based on speed violation:
-  - We see that the lesser your driving experience the less the speed violation.
+-Based on speed viaolation:
+  - We see that the younger the driver with less years of driving experience, the lesser the speed violation. And the older the driver with more years of driving experience, the higher the speed violation.
     
--Based on age:
-  - Suppermarket Type1 is the most outlet type.
+-Based on past accidents:
+  - We also see that the younger the driver with less years of driving experience, the lesser the speed accidents in the past. And the older the driver with more years of driving experience, the higher the accidents in the past.
   
-- For those who are interest based on location type:
-  - Tier 3 is the most location type.
+
   
 
 Model Performance
